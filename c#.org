@@ -1,0 +1,4 @@
+* C# Tea Application
+** Design
+[[./assets/c.png]]
+the application works but you need to get the database i will upload when i have the time
